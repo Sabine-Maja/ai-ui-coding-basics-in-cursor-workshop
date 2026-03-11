@@ -98,7 +98,7 @@ body {
 
 .download-button {
     width: fit-content;
-    background-color: #af4646;
+    background-color: #d47676;
     border: none;
     border-radius: 999px;
     padding: 8px 16px;
@@ -110,11 +110,11 @@ body {
 }
 
 .download-button:hover {
-    background-color: #d15050;
+    background-color: #915353;
 }
 
 .download-button:active {
-    background-color: #d15050;
+    background-color: #915353;
 }
 .download-button.primary {
     width: fit-content;
