@@ -118,7 +118,7 @@ body {
 }
 .download-button.primary {
     width: fit-content;
-    background-color: #232323;
+    background-color: #2e2e2e;
     border: none;
     border-radius: 999px;
     padding: 8px 16px;
@@ -129,11 +129,11 @@ body {
     transition: background-color 0.2s ease;
 }
 .download-button.primary:hover {
-    background-color: #333333;
+    background-color: #000000;
 }
 
 .download-button.primary:active {
-    background-color: #333333;
+    background-color: #000000;
 }
 
 .download-button.tertiary {
